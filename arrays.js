@@ -18,4 +18,3 @@ function destructivelyRemoveElementFromEndOfArray(array,element) {
 }
 
 //function accessElementInArray(array,element) {
-  
